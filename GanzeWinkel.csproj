@@ -45,7 +45,6 @@
   <ItemGroup>
     <Compile Include="OrderInfo.cs" />
     <Compile Include="TravelMatrix.cs" />
-    <Compile Include="EmptyFile.cs" />
     <Compile Include="Gansewinkel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
